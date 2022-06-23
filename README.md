@@ -1,13 +1,13 @@
-1. Clone this repository: 
+# Clone this repository: 
 
-2. Run these commands
+# Run these commands
 
-  a. composer install 
+1. composer install 
 
-  b. copy .env.example .env OR cp .env.example .env
+2. copy .env.example .env OR cp .env.example .env
 
-  c. php artisan key:generate
+3. php artisan key:generate
 
-  d. php artisan migrate
+4. php artisan migrate
 
-  e. php artisan serve
+5. php artisan serve
